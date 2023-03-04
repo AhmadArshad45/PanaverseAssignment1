@@ -1,0 +1,11 @@
+var a = 8;
+var b = 1;
+var mul = a * b;
+var div = a / b;
+console.log("multiplication is", mul, '\n', "Division is", div);
+a = 4;
+b = 4;
+var add = a + b;
+a = 12;
+var sub = a - b;
+console.log("Addition is", add, '\n', "Subtraction is", sub);

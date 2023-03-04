@@ -1,0 +1,11 @@
+const favplaces=['Great Wall of China','London','Sahara Desert','Harapa','Goa'];
+console.log("My Fav Places where I want to spend my vacations:",favplaces);
+let sortednames= favplaces.slice().sort();
+console.log("Sorted in Alphabetic Way:",sortednames);
+console.log("MY Fav Places:",favplaces);
+console.log(sortednames.reverse());
+console.log("MY Fav Places:",favplaces);
+console.log(favplaces.reverse());
+console.log("MY Fav Places:",favplaces.reverse());
+console.log(sortednames);
+console.log(sortednames.reverse());
